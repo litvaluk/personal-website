@@ -1,16 +1,11 @@
-html,
+@font-face {
+  font-family: 'Courier Prime';
+  src: local('Courier Prime'), url(../fonts/CourierPrime-Regular.ttf) format('truetype');
+}
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
+  background-color: black;
+  color: white;
+  font-family: 'Courier Prime';
   box-sizing: border-box;
 }

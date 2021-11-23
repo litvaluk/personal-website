@@ -1,0 +1,14 @@
+.container a {
+  margin: .75rem .75rem;
+}
+
+.icon {
+  color: white;
+  transition-duration: 0.25s;
+}
+
+.icon:hover {
+  color: #ccc;
+  transition-duration: 0.2s;
+  transform: translate(0, -2px);
+}
