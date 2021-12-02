@@ -2,9 +2,9 @@ import type { NextPage } from 'next'
 import Image from 'next/image'
 import SocialIcons from '../components/SocialIcons'
 import styles from '../styles/Home.module.css'
-import profilePic from '../images/profile-pic.jpg'
+import profilePic from '../../public/images/profile-pic.jpg'
 import Particles from "react-tsparticles";
-import { particlesOptions } from '../constants'
+import { particlesOptions } from '../../constants'
 
 const Home: NextPage = () => {
   return (
@@ -20,4 +20,4 @@ const Home: NextPage = () => {
   )
 }
 
-export default Home
+export default Home;
