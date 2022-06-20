@@ -10,5 +10,5 @@
 .icon:hover {
   color: #ccc;
   transition-duration: 0.2s;
-  transform: translate(0, -2px);
+  transform: scale(1.1);
 }
