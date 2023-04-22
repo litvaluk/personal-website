@@ -8,10 +8,16 @@
 
 .container h1 {
   font-size: 48px;
+  margin-bottom: 0px;
 }
 
 .container h2 {
   font-size: 18px;
+}
+
+.container h2.job {
+  margin-bottom: 36px;
+  margin-top: 4px;
 }
 
 .image {

@@ -4,11 +4,11 @@
 
 .icon {
   color: white;
-  transition-duration: 0.25s;
+  transition-duration: 0.1s;
 }
 
 .icon:hover {
   color: #ccc;
-  transition-duration: 0.2s;
+  transition-duration: 0.1s;
   transform: scale(1.1);
 }

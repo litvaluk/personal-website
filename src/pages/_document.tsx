@@ -12,8 +12,8 @@ class AppDocument extends Document {
         <Head>
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#000000" />
-          <meta name="description" content="Personal web page of a programmer named Lukáš Litvan, currently a college student at FIT CTU in Prague and a Java Developer at Broadridge Czech Republic, s.r.o." />
-          <meta name="keywords" content="Lukáš Litvan, litvaluk, programmer, developer, student" />
+          <meta name="description" content="Personal web page of a programmer named Lukáš Litvan, college graduate at FIT CTU in Prague, currently working as a Software Developer at Confirmo." />
+          <meta name="keywords" content="Lukáš Litvan, litvaluk, programmer, developer, java" />
           <meta name="author" content="Lukáš Litvan" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
           <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=block" rel="stylesheet" />

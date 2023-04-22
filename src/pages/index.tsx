@@ -9,6 +9,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Image className={styles.image} src={profilePic} alt="Photo of me standing on the Brooklyn Bridge" width="250px" height="250px" layout="intrinsic" placeholder="blur" />
       <h1>Lukáš Litvan</h1>
+      <h2 className={styles.job}>Software Developer at <a href='https://confirmo.net/' target="_blank" rel="noreferrer" aria-label="Confirmo">Confirmo</a></h2>
       <h2>Converting caffeine into code since 2017.</h2>
       <SocialIcons />
     </div>

@@ -7,3 +7,23 @@ body {
   font-family: 'Courier Prime';
   box-sizing: border-box;
 }
+
+a {
+  transition-duration: 0.1s;
+}
+
+a:link {
+  color: white
+}
+
+a:active {
+  color: #ccc
+}
+
+a:visited {
+  color: white
+}
+
+a:hover {
+  color: #ccc
+}
